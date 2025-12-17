@@ -1,6 +1,6 @@
-package com.project.ecommerce.repository;
+package com.ecommerce.repository;
 
-import com.project.ecommerce.model.CartItem;
+import com.ecommerce.model.CartItem;
 
 import java.util.List;
 

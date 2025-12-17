@@ -1,4 +1,4 @@
-package com.project.ecommerce.controller;
+package com.ecommerce.controller;
 
 import com.project.ecommerce.model.Order;
 import com.project.ecommerce.service.OrderService;

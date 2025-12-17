@@ -1,7 +1,7 @@
-package com.project.ecommerce.repository.repoImpl;
+package com.ecommerce.repository.repoImpl;
 
-import com.project.ecommerce.model.Product;
-import com.project.ecommerce.repository.ProductRepository;
+import com.ecommerce.model.Product;
+import com.ecommerce.repository.ProductRepository;
 import org.springframework.stereotype.Repository;
 
 import java.util.ArrayList;

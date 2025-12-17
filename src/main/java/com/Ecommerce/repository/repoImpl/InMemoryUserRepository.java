@@ -1,6 +1,6 @@
-package com.project.ecommerce.repository.repoImpl;
+package com.ecommerce.repository.repoImpl;
 
-import com.project.ecommerce.model.User;
+import com.ecommerce.model.User;
 import com.project.ecommerce.repository.UserRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,6 +1,6 @@
-package com.project.ecommerce.repository;
+package com.ecommerce.repository;
 
-import com.project.ecommerce.model.Order;
+import com.ecommerce.model.Order;
 
 import java.util.List;
 

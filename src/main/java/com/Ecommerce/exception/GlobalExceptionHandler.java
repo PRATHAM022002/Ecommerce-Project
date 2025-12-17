@@ -1,4 +1,4 @@
-package com.project.ecommerce.exception;
+package com.ecommerce.exception;
 
 import org.springframework.http.*;
 import org.springframework.web.bind.annotation.*;

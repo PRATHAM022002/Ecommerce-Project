@@ -1,7 +1,7 @@
-package com.project.ecommerce.repository.repoImpl;
+package com.ecommerce.repository.repoImpl;
 
-import com.project.ecommerce.model.Admin;
-import com.project.ecommerce.repository.AdminRepository;
+import com.ecommerce.model.Admin;
+import com.ecommerce.repository.AdminRepository;
 import org.springframework.stereotype.Repository;
 
 import java.util.ArrayList;
